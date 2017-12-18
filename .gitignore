@@ -1,0 +1,6 @@
+Debug
+.suo
+*.VC.db
+*.VC.opendb
+*.vcxproj.user
+.vscode
